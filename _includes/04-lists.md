@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] Complete Github Course
+- [ ] Test Activity
+- [ ] Final Test
